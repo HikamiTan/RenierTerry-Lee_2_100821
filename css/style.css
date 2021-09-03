@@ -1,0 +1,58 @@
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+
+header img{
+	grid-area: auto;
+	padding: 0.2rem;
+	height: 2.813rem;
+}
+
+
+header nav{
+	color: #0065fc;
+    
+}  
+
+header nav ul{
+	list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top:
+
+}
+
+header nav ul li{
+	width: auto;
+	float: right;
+    
+}
+
+li{
+	display: inline-block;
+	padding: 15px 30px
+	
+}
+
+
+nav a{
+	text-align: center;
+	color: #0065fc;
+	text-decoration: none;
+	font-family: 'Raleway',sans-serif;
+	font-size: 1.2vw;
+	background-color: transparent;
+    border-top: 3px solid #0065FC;
+    border-top: 3px solid transparent;
+    
+}
+
+nav a:hover{
+	border-top: 3px solid #0065FC;
+ }
+
+
+
+
